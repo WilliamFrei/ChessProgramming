@@ -1,0 +1,5504 @@
+run:
+  ##################################
+8 # bR  bN  bB  bQ  bK  bB  bN  bR #
+  #                                #
+7 # bP  bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #                                #
+  #                                #
+5 #                                #
+  #                                #
+4 #                                #
+  #                                #
+3 #                                #
+  #                                #
+2 # wP  wP  wP  wP  wP  wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ  wK  wB  wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	 e2-e4
+  ##################################
+8 # bR  bN  bB  bQ  bK  bB  bN  bR #
+  #                                #
+7 # bP  bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #                                #
+  #                                #
+5 #                                #
+  #                                #
+4 #                 wP             #
+  #                                #
+3 #                                #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ  wK  wB  wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Ng8-f6
+  ##################################
+8 # bR  bN  bB  bQ  bK  bB      bR #
+  #                                #
+7 # bP  bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #                     bN         #
+  #                                #
+5 #                                #
+  #                                #
+4 #                 wP             #
+  #                                #
+3 #                                #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ  wK  wB  wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Qd1-f3
+  ##################################
+8 # bR  bN  bB  bQ  bK  bB      bR #
+  #                                #
+7 # bP  bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #                     bN         #
+  #                                #
+5 #                                #
+  #                                #
+4 #                 wP             #
+  #                                #
+3 #                     wQ         #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB      wK  wB  wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	 e7-e5
+  ##################################
+8 # bR  bN  bB  bQ  bK  bB      bR #
+  #                                #
+7 # bP  bP  bP  bP      bP  bP  bP #
+  #                                #
+6 #                     bN         #
+  #                                #
+5 #                 bP             #
+  #                                #
+4 #                 wP             #
+  #                                #
+3 #                     wQ         #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB      wK  wB  wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Qf3xf6
+  ##################################
+8 # bR  bN  bB  bQ  bK  bB      bR #
+  #                                #
+7 # bP  bP  bP  bP      bP  bP  bP #
+  #                                #
+6 #                     wQ         #
+  #                                #
+5 #                 bP             #
+  #                                #
+4 #                 wP             #
+  #                                #
+3 #                                #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB      wK  wB  wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qd8xf6
+  ##################################
+8 # bR  bN  bB      bK  bB      bR #
+  #                                #
+7 # bP  bP  bP  bP      bP  bP  bP #
+  #                                #
+6 #                     bQ         #
+  #                                #
+5 #                 bP             #
+  #                                #
+4 #                 wP             #
+  #                                #
+3 #                                #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB      wK  wB  wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bf1-b5
+  ##################################
+8 # bR  bN  bB      bK  bB      bR #
+  #                                #
+7 # bP  bP  bP  bP      bP  bP  bP #
+  #                                #
+6 #                     bQ         #
+  #                                #
+5 #     wB          bP             #
+  #                                #
+4 #                 wP             #
+  #                                #
+3 #                                #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB      wK      wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qf6-b6
+  ##################################
+8 # bR  bN  bB      bK  bB      bR #
+  #                                #
+7 # bP  bP  bP  bP      bP  bP  bP #
+  #                                #
+6 #     bQ                         #
+  #                                #
+5 #     wB          bP             #
+  #                                #
+4 #                 wP             #
+  #                                #
+3 #                                #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB      wK      wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bb5-a4
+  ##################################
+8 # bR  bN  bB      bK  bB      bR #
+  #                                #
+7 # bP  bP  bP  bP      bP  bP  bP #
+  #                                #
+6 #     bQ                         #
+  #                                #
+5 #                 bP             #
+  #                                #
+4 # wB              wP             #
+  #                                #
+3 #                                #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB      wK      wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qb6-b4
+  ##################################
+8 # bR  bN  bB      bK  bB      bR #
+  #                                #
+7 # bP  bP  bP  bP      bP  bP  bP #
+  #                                #
+6 #                                #
+  #                                #
+5 #                 bP             #
+  #                                #
+4 # wB  bQ          wP             #
+  #                                #
+3 #                                #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB      wK      wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Nb1-c3
+  ##################################
+8 # bR  bN  bB      bK  bB      bR #
+  #                                #
+7 # bP  bP  bP  bP      bP  bP  bP #
+  #                                #
+6 #                                #
+  #                                #
+5 #                 bP             #
+  #                                #
+4 # wB  bQ          wP             #
+  #                                #
+3 #         wN                     #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR      wB      wK      wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Bf8-d6
+  ##################################
+8 # bR  bN  bB      bK          bR #
+  #                                #
+7 # bP  bP  bP  bP      bP  bP  bP #
+  #                                #
+6 #             bB                 #
+  #                                #
+5 #                 bP             #
+  #                                #
+4 # wB  bQ          wP             #
+  #                                #
+3 #         wN                     #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR      wB      wK      wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	 f2-f3
+  ##################################
+8 # bR  bN  bB      bK          bR #
+  #                                #
+7 # bP  bP  bP  bP      bP  bP  bP #
+  #                                #
+6 #             bB                 #
+  #                                #
+5 #                 bP             #
+  #                                #
+4 # wB  bQ          wP             #
+  #                                #
+3 #         wN          wP         #
+  #                                #
+2 # wP  wP  wP  wP          wP  wP #
+  #                                #
+1 # wR      wB      wK      wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	 h7-h5
+  ##################################
+8 # bR  bN  bB      bK          bR #
+  #                                #
+7 # bP  bP  bP  bP      bP  bP     #
+  #                                #
+6 #             bB                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 # wB  bQ          wP             #
+  #                                #
+3 #         wN          wP         #
+  #                                #
+2 # wP  wP  wP  wP          wP  wP #
+  #                                #
+1 # wR      wB      wK      wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	 g2-g3
+  ##################################
+8 # bR  bN  bB      bK          bR #
+  #                                #
+7 # bP  bP  bP  bP      bP  bP     #
+  #                                #
+6 #             bB                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 # wB  bQ          wP             #
+  #                                #
+3 #         wN          wP  wP     #
+  #                                #
+2 # wP  wP  wP  wP              wP #
+  #                                #
+1 # wR      wB      wK      wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Rh8-h6
+  ##################################
+8 # bR  bN  bB      bK             #
+  #                                #
+7 # bP  bP  bP  bP      bP  bP     #
+  #                                #
+6 #             bB              bR #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 # wB  bQ          wP             #
+  #                                #
+3 #         wN          wP  wP     #
+  #                                #
+2 # wP  wP  wP  wP              wP #
+  #                                #
+1 # wR      wB      wK      wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ba4-b5
+  ##################################
+8 # bR  bN  bB      bK             #
+  #                                #
+7 # bP  bP  bP  bP      bP  bP     #
+  #                                #
+6 #             bB              bR #
+  #                                #
+5 #     wB          bP          bP #
+  #                                #
+4 #     bQ          wP             #
+  #                                #
+3 #         wN          wP  wP     #
+  #                                #
+2 # wP  wP  wP  wP              wP #
+  #                                #
+1 # wR      wB      wK      wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	 a7-a6
+  ##################################
+8 # bR  bN  bB      bK             #
+  #                                #
+7 #     bP  bP  bP      bP  bP     #
+  #                                #
+6 # bP          bB              bR #
+  #                                #
+5 #     wB          bP          bP #
+  #                                #
+4 #     bQ          wP             #
+  #                                #
+3 #         wN          wP  wP     #
+  #                                #
+2 # wP  wP  wP  wP              wP #
+  #                                #
+1 # wR      wB      wK      wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	 d2-d3
+  ##################################
+8 # bR  bN  bB      bK             #
+  #                                #
+7 #     bP  bP  bP      bP  bP     #
+  #                                #
+6 # bP          bB              bR #
+  #                                #
+5 #     wB          bP          bP #
+  #                                #
+4 #     bQ          wP             #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 # wP  wP  wP                  wP #
+  #                                #
+1 # wR      wB      wK      wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Rh6-h8
+  ##################################
+8 # bR  bN  bB      bK          bR #
+  #                                #
+7 #     bP  bP  bP      bP  bP     #
+  #                                #
+6 # bP          bB                 #
+  #                                #
+5 #     wB          bP          bP #
+  #                                #
+4 #     bQ          wP             #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 # wP  wP  wP                  wP #
+  #                                #
+1 # wR      wB      wK      wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	 a2-a3
+  ##################################
+8 # bR  bN  bB      bK          bR #
+  #                                #
+7 #     bP  bP  bP      bP  bP     #
+  #                                #
+6 # bP          bB                 #
+  #                                #
+5 #     wB          bP          bP #
+  #                                #
+4 #     bQ          wP             #
+  #                                #
+3 # wP      wN  wP      wP  wP     #
+  #                                #
+2 #     wP  wP                  wP #
+  #                                #
+1 # wR      wB      wK      wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qb4-c5
+  ##################################
+8 # bR  bN  bB      bK          bR #
+  #                                #
+7 #     bP  bP  bP      bP  bP     #
+  #                                #
+6 # bP          bB                 #
+  #                                #
+5 #     wB  bQ      bP          bP #
+  #                                #
+4 #                 wP             #
+  #                                #
+3 # wP      wN  wP      wP  wP     #
+  #                                #
+2 #     wP  wP                  wP #
+  #                                #
+1 # wR      wB      wK      wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bb5-a4
+  ##################################
+8 # bR  bN  bB      bK          bR #
+  #                                #
+7 #     bP  bP  bP      bP  bP     #
+  #                                #
+6 # bP          bB                 #
+  #                                #
+5 #         bQ      bP          bP #
+  #                                #
+4 # wB              wP             #
+  #                                #
+3 # wP      wN  wP      wP  wP     #
+  #                                #
+2 #     wP  wP                  wP #
+  #                                #
+1 # wR      wB      wK      wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Rh8-h7
+  ##################################
+8 # bR  bN  bB      bK             #
+  #                                #
+7 #     bP  bP  bP      bP  bP  bR #
+  #                                #
+6 # bP          bB                 #
+  #                                #
+5 #         bQ      bP          bP #
+  #                                #
+4 # wB              wP             #
+  #                                #
+3 # wP      wN  wP      wP  wP     #
+  #                                #
+2 #     wP  wP                  wP #
+  #                                #
+1 # wR      wB      wK      wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ke1-e2
+  ##################################
+8 # bR  bN  bB      bK             #
+  #                                #
+7 #     bP  bP  bP      bP  bP  bR #
+  #                                #
+6 # bP          bB                 #
+  #                                #
+5 #         bQ      bP          bP #
+  #                                #
+4 # wB              wP             #
+  #                                #
+3 # wP      wN  wP      wP  wP     #
+  #                                #
+2 #     wP  wP      wK          wP #
+  #                                #
+1 # wR      wB              wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Bd6-e7
+  ##################################
+8 # bR  bN  bB      bK             #
+  #                                #
+7 #     bP  bP  bP  bB  bP  bP  bR #
+  #                                #
+6 # bP                             #
+  #                                #
+5 #         bQ      bP          bP #
+  #                                #
+4 # wB              wP             #
+  #                                #
+3 # wP      wN  wP      wP  wP     #
+  #                                #
+2 #     wP  wP      wK          wP #
+  #                                #
+1 # wR      wB              wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ke2-e1
+  ##################################
+8 # bR  bN  bB      bK             #
+  #                                #
+7 #     bP  bP  bP  bB  bP  bP  bR #
+  #                                #
+6 # bP                             #
+  #                                #
+5 #         bQ      bP          bP #
+  #                                #
+4 # wB              wP             #
+  #                                #
+3 # wP      wN  wP      wP  wP     #
+  #                                #
+2 #     wP  wP                  wP #
+  #                                #
+1 # wR      wB      wK      wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Ra8-a7
+  ##################################
+8 #     bN  bB      bK             #
+  #                                #
+7 # bR  bP  bP  bP  bB  bP  bP  bR #
+  #                                #
+6 # bP                             #
+  #                                #
+5 #         bQ      bP          bP #
+  #                                #
+4 # wB              wP             #
+  #                                #
+3 # wP      wN  wP      wP  wP     #
+  #                                #
+2 #     wP  wP                  wP #
+  #                                #
+1 # wR      wB      wK      wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ng1-e2
+  ##################################
+8 #     bN  bB      bK             #
+  #                                #
+7 # bR  bP  bP  bP  bB  bP  bP  bR #
+  #                                #
+6 # bP                             #
+  #                                #
+5 #         bQ      bP          bP #
+  #                                #
+4 # wB              wP             #
+  #                                #
+3 # wP      wN  wP      wP  wP     #
+  #                                #
+2 #     wP  wP      wN          wP #
+  #                                #
+1 # wR      wB      wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qc5-a5
+  ##################################
+8 #     bN  bB      bK             #
+  #                                #
+7 # bR  bP  bP  bP  bB  bP  bP  bR #
+  #                                #
+6 # bP                             #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB              wP             #
+  #                                #
+3 # wP      wN  wP      wP  wP     #
+  #                                #
+2 #     wP  wP      wN          wP #
+  #                                #
+1 # wR      wB      wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	 b2-b4
+  ##################################
+8 #     bN  bB      bK             #
+  #                                #
+7 # bR  bP  bP  bP  bB  bP  bP  bR #
+  #                                #
+6 # bP                             #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB  wP          wP             #
+  #                                #
+3 # wP      wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN          wP #
+  #                                #
+1 # wR      wB      wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Be7xb4
+  ##################################
+8 #     bN  bB      bK             #
+  #                                #
+7 # bR  bP  bP  bP      bP  bP  bR #
+  #                                #
+6 # bP                             #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB  bB          wP             #
+  #                                #
+3 # wP      wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN          wP #
+  #                                #
+1 # wR      wB      wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	 a3xb4
+  ##################################
+8 #     bN  bB      bK             #
+  #                                #
+7 # bR  bP  bP  bP      bP  bP  bR #
+  #                                #
+6 # bP                             #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB  wP          wP             #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN          wP #
+  #                                #
+1 # wR      wB      wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qa5xb4
+  ##################################
+8 #     bN  bB      bK             #
+  #                                #
+7 # bR  bP  bP  bP      bP  bP  bR #
+  #                                #
+6 # bP                             #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 # wB  bQ          wP             #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN          wP #
+  #                                #
+1 # wR      wB      wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ra1-b1
+  ##################################
+8 #     bN  bB      bK             #
+  #                                #
+7 # bR  bP  bP  bP      bP  bP  bR #
+  #                                #
+6 # bP                             #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 # wB  bQ          wP             #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN          wP #
+  #                                #
+1 #     wR  wB      wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qb4-a5
+  ##################################
+8 #     bN  bB      bK             #
+  #                                #
+7 # bR  bP  bP  bP      bP  bP  bR #
+  #                                #
+6 # bP                             #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB              wP             #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN          wP #
+  #                                #
+1 #     wR  wB      wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bc1-e3
+  ##################################
+8 #     bN  bB      bK             #
+  #                                #
+7 # bR  bP  bP  bP      bP  bP  bR #
+  #                                #
+6 # bP                             #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB              wP             #
+  #                                #
+3 #         wN  wP  wB  wP  wP     #
+  #                                #
+2 #         wP      wN          wP #
+  #                                #
+1 #     wR          wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Ra7-a8
+  ##################################
+8 # bR  bN  bB      bK             #
+  #                                #
+7 #     bP  bP  bP      bP  bP  bR #
+  #                                #
+6 # bP                             #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB              wP             #
+  #                                #
+3 #         wN  wP  wB  wP  wP     #
+  #                                #
+2 #         wP      wN          wP #
+  #                                #
+1 #     wR          wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Be3-g5
+  ##################################
+8 # bR  bN  bB      bK             #
+  #                                #
+7 #     bP  bP  bP      bP  bP  bR #
+  #                                #
+6 # bP                             #
+  #                                #
+5 # bQ              bP      wB  bP #
+  #                                #
+4 # wB              wP             #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN          wP #
+  #                                #
+1 #     wR          wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Ra8-a7
+  ##################################
+8 #     bN  bB      bK             #
+  #                                #
+7 # bR  bP  bP  bP      bP  bP  bR #
+  #                                #
+6 # bP                             #
+  #                                #
+5 # bQ              bP      wB  bP #
+  #                                #
+4 # wB              wP             #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN          wP #
+  #                                #
+1 #     wR          wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bg5-e3
+  ##################################
+8 #     bN  bB      bK             #
+  #                                #
+7 # bR  bP  bP  bP      bP  bP  bR #
+  #                                #
+6 # bP                             #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB              wP             #
+  #                                #
+3 #         wN  wP  wB  wP  wP     #
+  #                                #
+2 #         wP      wN          wP #
+  #                                #
+1 #     wR          wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Ra7-a8
+  ##################################
+8 # bR  bN  bB      bK             #
+  #                                #
+7 #     bP  bP  bP      bP  bP  bR #
+  #                                #
+6 # bP                             #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB              wP             #
+  #                                #
+3 #         wN  wP  wB  wP  wP     #
+  #                                #
+2 #         wP      wN          wP #
+  #                                #
+1 #     wR          wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Be3-g5
+  ##################################
+8 # bR  bN  bB      bK             #
+  #                                #
+7 #     bP  bP  bP      bP  bP  bR #
+  #                                #
+6 # bP                             #
+  #                                #
+5 # bQ              bP      wB  bP #
+  #                                #
+4 # wB              wP             #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN          wP #
+  #                                #
+1 #     wR          wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Ra8-a7
+  ##################################
+8 #     bN  bB      bK             #
+  #                                #
+7 # bR  bP  bP  bP      bP  bP  bR #
+  #                                #
+6 # bP                             #
+  #                                #
+5 # bQ              bP      wB  bP #
+  #                                #
+4 # wB              wP             #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN          wP #
+  #                                #
+1 #     wR          wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bg5-e3
+  ##################################
+8 #     bN  bB      bK             #
+  #                                #
+7 # bR  bP  bP  bP      bP  bP  bR #
+  #                                #
+6 # bP                             #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB              wP             #
+  #                                #
+3 #         wN  wP  wB  wP  wP     #
+  #                                #
+2 #         wP      wN          wP #
+  #                                #
+1 #     wR          wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Ra7-a8
+  ##################################
+8 # bR  bN  bB      bK             #
+  #                                #
+7 #     bP  bP  bP      bP  bP  bR #
+  #                                #
+6 # bP                             #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB              wP             #
+  #                                #
+3 #         wN  wP  wB  wP  wP     #
+  #                                #
+2 #         wP      wN          wP #
+  #                                #
+1 #     wR          wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Be3-g5
+  ##################################
+8 # bR  bN  bB      bK             #
+  #                                #
+7 #     bP  bP  bP      bP  bP  bR #
+  #                                #
+6 # bP                             #
+  #                                #
+5 # bQ              bP      wB  bP #
+  #                                #
+4 # wB              wP             #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN          wP #
+  #                                #
+1 #     wR          wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	 g7-g6
+  ##################################
+8 # bR  bN  bB      bK             #
+  #                                #
+7 #     bP  bP  bP      bP      bR #
+  #                                #
+6 # bP                      bP     #
+  #                                #
+5 # bQ              bP      wB  bP #
+  #                                #
+4 # wB              wP             #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN          wP #
+  #                                #
+1 #     wR          wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bg5-f6
+  ##################################
+8 # bR  bN  bB      bK             #
+  #                                #
+7 #     bP  bP  bP      bP      bR #
+  #                                #
+6 # bP                  wB  bP     #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB              wP             #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN          wP #
+  #                                #
+1 #     wR          wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	 c7-c6
+  ##################################
+8 # bR  bN  bB      bK             #
+  #                                #
+7 #     bP      bP      bP      bR #
+  #                                #
+6 # bP      bP          wB  bP     #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB              wP             #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN          wP #
+  #                                #
+1 #     wR          wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	 h2-h4
+  ##################################
+8 # bR  bN  bB      bK             #
+  #                                #
+7 #     bP      bP      bP      bR #
+  #                                #
+6 # bP      bP          wB  bP     #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB              wP          wP #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN             #
+  #                                #
+1 #     wR          wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	 d7-d6
+  ##################################
+8 # bR  bN  bB      bK             #
+  #                                #
+7 #     bP              bP      bR #
+  #                                #
+6 # bP      bP  bP      wB  bP     #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB              wP          wP #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN             #
+  #                                #
+1 #     wR          wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ke1-f1
+  ##################################
+8 # bR  bN  bB      bK             #
+  #                                #
+7 #     bP              bP      bR #
+  #                                #
+6 # bP      bP  bP      wB  bP     #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB              wP          wP #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN             #
+  #                                #
+1 #     wR              wK      wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Bc8-d7
+  ##################################
+8 # bR  bN          bK             #
+  #                                #
+7 #     bP      bB      bP      bR #
+  #                                #
+6 # bP      bP  bP      wB  bP     #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB              wP          wP #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN             #
+  #                                #
+1 #     wR              wK      wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rb1xb7
+  ##################################
+8 # bR  bN          bK             #
+  #                                #
+7 #     wR      bB      bP      bR #
+  #                                #
+6 # bP      bP  bP      wB  bP     #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB              wP          wP #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN             #
+  #                                #
+1 #                     wK      wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	 g6-g5
+  ##################################
+8 # bR  bN          bK             #
+  #                                #
+7 #     wR      bB      bP      bR #
+  #                                #
+6 # bP      bP  bP      wB         #
+  #                                #
+5 # bQ              bP      bP  bP #
+  #                                #
+4 # wB              wP          wP #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN             #
+  #                                #
+1 #                     wK      wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bf6xg5
+  ##################################
+8 # bR  bN          bK             #
+  #                                #
+7 #     wR      bB      bP      bR #
+  #                                #
+6 # bP      bP  bP                 #
+  #                                #
+5 # bQ              bP      wB  bP #
+  #                                #
+4 # wB              wP          wP #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN             #
+  #                                #
+1 #                     wK      wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	 f7-f6
+  ##################################
+8 # bR  bN          bK             #
+  #                                #
+7 #     wR      bB              bR #
+  #                                #
+6 # bP      bP  bP      bP         #
+  #                                #
+5 # bQ              bP      wB  bP #
+  #                                #
+4 # wB              wP          wP #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN             #
+  #                                #
+1 #                     wK      wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bg5xf6
+  ##################################
+8 # bR  bN          bK             #
+  #                                #
+7 #     wR      bB              bR #
+  #                                #
+6 # bP      bP  bP      wB         #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB              wP          wP #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN             #
+  #                                #
+1 #                     wK      wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Rh7-h6
+  ##################################
+8 # bR  bN          bK             #
+  #                                #
+7 #     wR      bB                 #
+  #                                #
+6 # bP      bP  bP      wB      bR #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB              wP          wP #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN             #
+  #                                #
+1 #                     wK      wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bf6-g5
+  ##################################
+8 # bR  bN          bK             #
+  #                                #
+7 #     wR      bB                 #
+  #                                #
+6 # bP      bP  bP              bR #
+  #                                #
+5 # bQ              bP      wB  bP #
+  #                                #
+4 # wB              wP          wP #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN             #
+  #                                #
+1 #                     wK      wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Rh6-h8
+  ##################################
+8 # bR  bN          bK          bR #
+  #                                #
+7 #     wR      bB                 #
+  #                                #
+6 # bP      bP  bP                 #
+  #                                #
+5 # bQ              bP      wB  bP #
+  #                                #
+4 # wB              wP          wP #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN             #
+  #                                #
+1 #                     wK      wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bg5-c1
+  ##################################
+8 # bR  bN          bK          bR #
+  #                                #
+7 #     wR      bB                 #
+  #                                #
+6 # bP      bP  bP                 #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB              wP          wP #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN             #
+  #                                #
+1 #         wB          wK      wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Bd7-e6
+  ##################################
+8 # bR  bN          bK          bR #
+  #                                #
+7 #     wR                         #
+  #                                #
+6 # bP      bP  bP  bB             #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB              wP          wP #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN             #
+  #                                #
+1 #         wB          wK      wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Kf1-e1
+  ##################################
+8 # bR  bN          bK          bR #
+  #                                #
+7 #     wR                         #
+  #                                #
+6 # bP      bP  bP  bB             #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB              wP          wP #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN             #
+  #                                #
+1 #         wB      wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Nb8-d7
+  ##################################
+8 # bR              bK          bR #
+  #                                #
+7 #     wR      bN                 #
+  #                                #
+6 # bP      bP  bP  bB             #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB              wP          wP #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN             #
+  #                                #
+1 #         wB      wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ba4xc6
+  ##################################
+8 # bR              bK          bR #
+  #                                #
+7 #     wR      bN                 #
+  #                                #
+6 # bP      wB  bP  bB             #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN             #
+  #                                #
+1 #         wB      wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Ke8-f7
+  ##################################
+8 # bR                          bR #
+  #                                #
+7 #     wR      bN      bK         #
+  #                                #
+6 # bP      wB  bP  bB             #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN             #
+  #                                #
+1 #         wB      wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bc6-a4
+  ##################################
+8 # bR                          bR #
+  #                                #
+7 #     wR      bN      bK         #
+  #                                #
+6 # bP          bP  bB             #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB              wP          wP #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN             #
+  #                                #
+1 #         wB      wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Ra8-c8
+  ##################################
+8 #         bR                  bR #
+  #                                #
+7 #     wR      bN      bK         #
+  #                                #
+6 # bP          bP  bB             #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 # wB              wP          wP #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN             #
+  #                                #
+1 #         wB      wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ba4xd7
+  ##################################
+8 #         bR                  bR #
+  #                                #
+7 #     wR      wB      bK         #
+  #                                #
+6 # bP          bP  bB             #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP      wN             #
+  #                                #
+1 #         wB      wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Rc8xc3
+  ##################################
+8 #                             bR #
+  #                                #
+7 #     wR      wB      bK         #
+  #                                #
+6 # bP          bP  bB             #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 #         bR  wP      wP  wP     #
+  #                                #
+2 #         wP      wN             #
+  #                                #
+1 #         wB      wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bd7-c6
+  ##################################
+8 #                             bR #
+  #                                #
+7 #     wR              bK         #
+  #                                #
+6 # bP      wB  bP  bB             #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 #         bR  wP      wP  wP     #
+  #                                #
+2 #         wP      wN             #
+  #                                #
+1 #         wB      wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kf7-g6
+  ##################################
+8 #                             bR #
+  #                                #
+7 #     wR                         #
+  #                                #
+6 # bP      wB  bP  bB      bK     #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 #         bR  wP      wP  wP     #
+  #                                #
+2 #         wP      wN             #
+  #                                #
+1 #         wB      wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ne2xc3
+  ##################################
+8 #                             bR #
+  #                                #
+7 #     wR                         #
+  #                                #
+6 # bP      wB  bP  bB      bK     #
+  #                                #
+5 # bQ              bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 #         wN  wP      wP  wP     #
+  #                                #
+2 #         wP                     #
+  #                                #
+1 #         wB      wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qa5xc3
+  ##################################
+8 #                             bR #
+  #                                #
+7 #     wR                         #
+  #                                #
+6 # bP      wB  bP  bB      bK     #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 #         bQ  wP      wP  wP     #
+  #                                #
+2 #         wP                     #
+  #                                #
+1 #         wB      wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ke1-f2
+  ##################################
+8 #                             bR #
+  #                                #
+7 #     wR                         #
+  #                                #
+6 # bP      wB  bP  bB      bK     #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 #         bQ  wP      wP  wP     #
+  #                                #
+2 #         wP          wK         #
+  #                                #
+1 #         wB                  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qc3xc6
+  ##################################
+8 #                             bR #
+  #                                #
+7 #     wR                         #
+  #                                #
+6 # bP      bQ  bP  bB      bK     #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 #             wP      wP  wP     #
+  #                                #
+2 #         wP          wK         #
+  #                                #
+1 #         wB                  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rb7-b2
+  ##################################
+8 #                             bR #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP      bQ  bP  bB      bK     #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 #             wP      wP  wP     #
+  #                                #
+2 #     wR  wP          wK         #
+  #                                #
+1 #         wB                  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Be6-d7
+  ##################################
+8 #                             bR #
+  #                                #
+7 #             bB                 #
+  #                                #
+6 # bP      bQ  bP          bK     #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 #             wP      wP  wP     #
+  #                                #
+2 #     wR  wP          wK         #
+  #                                #
+1 #         wB                  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bc1-e3
+  ##################################
+8 #                             bR #
+  #                                #
+7 #             bB                 #
+  #                                #
+6 # bP      bQ  bP          bK     #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 #             wP  wB  wP  wP     #
+  #                                #
+2 #     wR  wP          wK         #
+  #                                #
+1 #                             wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Rh8-e8
+  ##################################
+8 #                 bR             #
+  #                                #
+7 #             bB                 #
+  #                                #
+6 # bP      bQ  bP          bK     #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 #             wP  wB  wP  wP     #
+  #                                #
+2 #     wR  wP          wK         #
+  #                                #
+1 #                             wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rb2-a2
+  ##################################
+8 #                 bR             #
+  #                                #
+7 #             bB                 #
+  #                                #
+6 # bP      bQ  bP          bK     #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 #             wP  wB  wP  wP     #
+  #                                #
+2 # wR      wP          wK         #
+  #                                #
+1 #                             wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Re8-h8
+  ##################################
+8 #                             bR #
+  #                                #
+7 #             bB                 #
+  #                                #
+6 # bP      bQ  bP          bK     #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 #             wP  wB  wP  wP     #
+  #                                #
+2 # wR      wP          wK         #
+  #                                #
+1 #                             wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rh1-g1
+  ##################################
+8 #                             bR #
+  #                                #
+7 #             bB                 #
+  #                                #
+6 # bP      bQ  bP          bK     #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 #             wP  wB  wP  wP     #
+  #                                #
+2 # wR      wP          wK         #
+  #                                #
+1 #                         wR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kg6-h7
+  ##################################
+8 #                             bR #
+  #                                #
+7 #             bB              bK #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 #             wP  wB  wP  wP     #
+  #                                #
+2 # wR      wP          wK         #
+  #                                #
+1 #                         wR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Kf2-e2
+  ##################################
+8 #                             bR #
+  #                                #
+7 #             bB              bK #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 #             wP  wB  wP  wP     #
+  #                                #
+2 # wR      wP      wK             #
+  #                                #
+1 #                         wR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Bd7-h3
+  ##################################
+8 #                             bR #
+  #                                #
+7 #                             bK #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 #             wP  wB  wP  wP  bB #
+  #                                #
+2 # wR      wP      wK             #
+  #                                #
+1 #                         wR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ke2-d1
+  ##################################
+8 #                             bR #
+  #                                #
+7 #                             bK #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 #             wP  wB  wP  wP  bB #
+  #                                #
+2 # wR      wP                     #
+  #                                #
+1 #             wK          wR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Bh3-c8
+  ##################################
+8 #         bB                  bR #
+  #                                #
+7 #                             bK #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 #             wP  wB  wP  wP     #
+  #                                #
+2 # wR      wP                     #
+  #                                #
+1 #             wK          wR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ra2-a3
+  ##################################
+8 #         bB                  bR #
+  #                                #
+7 #                             bK #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 # wR          wP  wB  wP  wP     #
+  #                                #
+2 #         wP                     #
+  #                                #
+1 #             wK          wR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kh7-g6
+  ##################################
+8 #         bB                  bR #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP      bQ  bP          bK     #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 # wR          wP  wB  wP  wP     #
+  #                                #
+2 #         wP                     #
+  #                                #
+1 #             wK          wR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rg1-e1
+  ##################################
+8 #         bB                  bR #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP      bQ  bP          bK     #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 # wR          wP  wB  wP  wP     #
+  #                                #
+2 #         wP                     #
+  #                                #
+1 #             wK  wR             #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kg6-g7
+  ##################################
+8 #         bB                  bR #
+  #                                #
+7 #                         bK     #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 # wR          wP  wB  wP  wP     #
+  #                                #
+2 #         wP                     #
+  #                                #
+1 #             wK  wR             #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Kd1-c1
+  ##################################
+8 #         bB                  bR #
+  #                                #
+7 #                         bK     #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 # wR          wP  wB  wP  wP     #
+  #                                #
+2 #         wP                     #
+  #                                #
+1 #         wK      wR             #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kg7-f8
+  ##################################
+8 #         bB          bK      bR #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #                 wP          wP #
+  #                                #
+3 # wR          wP  wB  wP  wP     #
+  #                                #
+2 #         wP                     #
+  #                                #
+1 #         wK      wR             #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	 c2-c4
+  ##################################
+8 #         bB          bK      bR #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wR          wP  wB  wP  wP     #
+  #                                #
+2 #                                #
+  #                                #
+1 #         wK      wR             #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kf8-e8
+  ##################################
+8 #         bB      bK          bR #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wR          wP  wB  wP  wP     #
+  #                                #
+2 #                                #
+  #                                #
+1 #         wK      wR             #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Be3-d2
+  ##################################
+8 #         bB      bK          bR #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #             wB                 #
+  #                                #
+1 #         wK      wR             #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Ke8-f8
+  ##################################
+8 #         bB          bK      bR #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #             wB                 #
+  #                                #
+1 #         wK      wR             #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Re1-f1
+  ##################################
+8 #         bB          bK      bR #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #             wB                 #
+  #                                #
+1 #         wK          wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kf8-f7
+  ##################################
+8 #         bB                  bR #
+  #                                #
+7 #                     bK         #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #             wB                 #
+  #                                #
+1 #         wK          wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bd2-e3
+  ##################################
+8 #         bB                  bR #
+  #                                #
+7 #                     bK         #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wR          wP  wB  wP  wP     #
+  #                                #
+2 #                                #
+  #                                #
+1 #         wK          wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kf7-f8
+  ##################################
+8 #         bB          bK      bR #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wR          wP  wB  wP  wP     #
+  #                                #
+2 #                                #
+  #                                #
+1 #         wK          wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Be3-d2
+  ##################################
+8 #         bB          bK      bR #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #             wB                 #
+  #                                #
+1 #         wK          wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qc6-a8
+  ##################################
+8 # bQ      bB          bK      bR #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP          bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #             wB                 #
+  #                                #
+1 #         wK          wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bd2-c3
+  ##################################
+8 # bQ      bB          bK      bR #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP          bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wR      wB  wP      wP  wP     #
+  #                                #
+2 #                                #
+  #                                #
+1 #         wK          wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Rh8-h6
+  ##################################
+8 # bQ      bB          bK         #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP          bP              bR #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wR      wB  wP      wP  wP     #
+  #                                #
+2 #                                #
+  #                                #
+1 #         wK          wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ra3-a1
+  ##################################
+8 # bQ      bB          bK         #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP          bP              bR #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 #         wB  wP      wP  wP     #
+  #                                #
+2 #                                #
+  #                                #
+1 # wR      wK          wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kf8-g8
+  ##################################
+8 # bQ      bB              bK     #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP          bP              bR #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 #         wB  wP      wP  wP     #
+  #                                #
+2 #                                #
+  #                                #
+1 # wR      wK          wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ra1-a5
+  ##################################
+8 # bQ      bB              bK     #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP          bP              bR #
+  #                                #
+5 # wR              bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 #         wB  wP      wP  wP     #
+  #                                #
+2 #                                #
+  #                                #
+1 #         wK          wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Bc8-d7
+  ##################################
+8 # bQ                      bK     #
+  #                                #
+7 #             bB                 #
+  #                                #
+6 # bP          bP              bR #
+  #                                #
+5 # wR              bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 #         wB  wP      wP  wP     #
+  #                                #
+2 #                                #
+  #                                #
+1 #         wK          wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Kc1-c2
+  ##################################
+8 # bQ                      bK     #
+  #                                #
+7 #             bB                 #
+  #                                #
+6 # bP          bP              bR #
+  #                                #
+5 # wR              bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 #         wB  wP      wP  wP     #
+  #                                #
+2 #         wK                     #
+  #                                #
+1 #                     wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Rh6-e6
+  ##################################
+8 # bQ                      bK     #
+  #                                #
+7 #             bB                 #
+  #                                #
+6 # bP          bP  bR             #
+  #                                #
+5 # wR              bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 #         wB  wP      wP  wP     #
+  #                                #
+2 #         wK                     #
+  #                                #
+1 #                     wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bc3-b2
+  ##################################
+8 # bQ                      bK     #
+  #                                #
+7 #             bB                 #
+  #                                #
+6 # bP          bP  bR             #
+  #                                #
+5 # wR              bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 #             wP      wP  wP     #
+  #                                #
+2 #     wB  wK                     #
+  #                                #
+1 #                     wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Bd7-c8
+  ##################################
+8 # bQ      bB              bK     #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP          bP  bR             #
+  #                                #
+5 # wR              bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 #             wP      wP  wP     #
+  #                                #
+2 #     wB  wK                     #
+  #                                #
+1 #                     wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bb2-a1
+  ##################################
+8 # bQ      bB              bK     #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP          bP  bR             #
+  #                                #
+5 # wR              bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 #             wP      wP  wP     #
+  #                                #
+2 #         wK                     #
+  #                                #
+1 # wB                  wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qa8-c6
+  ##################################
+8 #         bB              bK     #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP      bQ  bP  bR             #
+  #                                #
+5 # wR              bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 #             wP      wP  wP     #
+  #                                #
+2 #         wK                     #
+  #                                #
+1 # wB                  wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ra5-a2
+  ##################################
+8 #         bB              bK     #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP      bQ  bP  bR             #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 #             wP      wP  wP     #
+  #                                #
+2 # wR      wK                     #
+  #                                #
+1 # wB                  wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qc6-c5
+  ##################################
+8 #         bB              bK     #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP          bP  bR             #
+  #                                #
+5 #         bQ      bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 #             wP      wP  wP     #
+  #                                #
+2 # wR      wK                     #
+  #                                #
+1 # wB                  wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ra2-a4
+  ##################################
+8 #         bB              bK     #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP          bP  bR             #
+  #                                #
+5 #         bQ      bP          bP #
+  #                                #
+4 # wR      wP      wP          wP #
+  #                                #
+3 #             wP      wP  wP     #
+  #                                #
+2 #         wK                     #
+  #                                #
+1 # wB                  wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Re6-e8
+  ##################################
+8 #         bB      bR      bK     #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP          bP                 #
+  #                                #
+5 #         bQ      bP          bP #
+  #                                #
+4 # wR      wP      wP          wP #
+  #                                #
+3 #             wP      wP  wP     #
+  #                                #
+2 #         wK                     #
+  #                                #
+1 # wB                  wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ba1-b2
+  ##################################
+8 #         bB      bR      bK     #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP          bP                 #
+  #                                #
+5 #         bQ      bP          bP #
+  #                                #
+4 # wR      wP      wP          wP #
+  #                                #
+3 #             wP      wP  wP     #
+  #                                #
+2 #     wB  wK                     #
+  #                                #
+1 #                     wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kg8-f8
+  ##################################
+8 #         bB      bR  bK         #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP          bP                 #
+  #                                #
+5 #         bQ      bP          bP #
+  #                                #
+4 # wR      wP      wP          wP #
+  #                                #
+3 #             wP      wP  wP     #
+  #                                #
+2 #     wB  wK                     #
+  #                                #
+1 #                     wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bb2-a1
+  ##################################
+8 #         bB      bR  bK         #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP          bP                 #
+  #                                #
+5 #         bQ      bP          bP #
+  #                                #
+4 # wR      wP      wP          wP #
+  #                                #
+3 #             wP      wP  wP     #
+  #                                #
+2 #         wK                     #
+  #                                #
+1 # wB                  wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Re8-e6
+  ##################################
+8 #         bB          bK         #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP          bP  bR             #
+  #                                #
+5 #         bQ      bP          bP #
+  #                                #
+4 # wR      wP      wP          wP #
+  #                                #
+3 #             wP      wP  wP     #
+  #                                #
+2 #         wK                     #
+  #                                #
+1 # wB                  wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ra4-a2
+  ##################################
+8 #         bB          bK         #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP          bP  bR             #
+  #                                #
+5 #         bQ      bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 #             wP      wP  wP     #
+  #                                #
+2 # wR      wK                     #
+  #                                #
+1 # wB                  wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kf8-g8
+  ##################################
+8 #         bB              bK     #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP          bP  bR             #
+  #                                #
+5 #         bQ      bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 #             wP      wP  wP     #
+  #                                #
+2 # wR      wK                     #
+  #                                #
+1 # wB                  wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ba1-b2
+  ##################################
+8 #         bB              bK     #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP          bP  bR             #
+  #                                #
+5 #         bQ      bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 #             wP      wP  wP     #
+  #                                #
+2 # wR  wB  wK                     #
+  #                                #
+1 #                     wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Re6-e8
+  ##################################
+8 #         bB      bR      bK     #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP          bP                 #
+  #                                #
+5 #         bQ      bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 #             wP      wP  wP     #
+  #                                #
+2 # wR  wB  wK                     #
+  #                                #
+1 #                     wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bb2-a1
+  ##################################
+8 #         bB      bR      bK     #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP          bP                 #
+  #                                #
+5 #         bQ      bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 #             wP      wP  wP     #
+  #                                #
+2 # wR      wK                     #
+  #                                #
+1 # wB                  wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qc5-c6
+  ##################################
+8 #         bB      bR      bK     #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 #             wP      wP  wP     #
+  #                                #
+2 # wR      wK                     #
+  #                                #
+1 # wB                  wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ra2-a3
+  ##################################
+8 #         bB      bR      bK     #
+  #                                #
+7 #                                #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #         wK                     #
+  #                                #
+1 # wB                  wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Re8-e7
+  ##################################
+8 #         bB              bK     #
+  #                                #
+7 #                 bR             #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #         wK                     #
+  #                                #
+1 # wB                  wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ba1-b2
+  ##################################
+8 #         bB              bK     #
+  #                                #
+7 #                 bR             #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #     wB  wK                     #
+  #                                #
+1 #                     wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kg8-g7
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #                 bR      bK     #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #     wB  wK                     #
+  #                                #
+1 #                     wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bb2-a1
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #                 bR      bK     #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #         wK                     #
+  #                                #
+1 # wB                  wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kg7-f8
+  ##################################
+8 #         bB          bK         #
+  #                                #
+7 #                 bR             #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #         wK                     #
+  #                                #
+1 # wB                  wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ba1-b2
+  ##################################
+8 #         bB          bK         #
+  #                                #
+7 #                 bR             #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #     wB  wK                     #
+  #                                #
+1 #                     wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kf8-g7
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #                 bR      bK     #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #     wB  wK                     #
+  #                                #
+1 #                     wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rf1-f2
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #                 bR      bK     #
+  #                                #
+6 # bP      bQ  bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #     wB  wK          wR         #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qc6-b6
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #                 bR      bK     #
+  #                                #
+6 # bP  bQ      bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #     wB  wK          wR         #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rf2-f1
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #                 bR      bK     #
+  #                                #
+6 # bP  bQ      bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #     wB  wK                     #
+  #                                #
+1 #                     wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qb6-b4
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #                 bR      bK     #
+  #                                #
+6 # bP          bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #     wB  wK                     #
+  #                                #
+1 #                     wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rf1-h1
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #                 bR      bK     #
+  #                                #
+6 # bP          bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #     wB  wK                     #
+  #                                #
+1 #                             wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kg7-g6
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #                 bR             #
+  #                                #
+6 # bP          bP          bK     #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #     wB  wK                     #
+  #                                #
+1 #                             wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Kc2-b1
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #                 bR             #
+  #                                #
+6 # bP          bP          bK     #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #     wB                         #
+  #                                #
+1 #     wK                      wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kg6-h6
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #                 bR             #
+  #                                #
+6 # bP          bP              bK #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #     wB                         #
+  #                                #
+1 #     wK                      wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Kb1-a2
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #                 bR             #
+  #                                #
+6 # bP          bP              bK #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 # wK  wB                         #
+  #                                #
+1 #                             wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kh6-g6
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #                 bR             #
+  #                                #
+6 # bP          bP          bK     #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 # wK  wB                         #
+  #                                #
+1 #                             wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bb2-c1
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #                 bR             #
+  #                                #
+6 # bP          bP          bK     #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 # wK                             #
+  #                                #
+1 #         wB                  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kg6-f7
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #                 bR  bK         #
+  #                                #
+6 # bP          bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 # wK                             #
+  #                                #
+1 #         wB                  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rh1-g1
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #                 bR  bK         #
+  #                                #
+6 # bP          bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 # wK                             #
+  #                                #
+1 #         wB              wR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kf7-e8
+  ##################################
+8 #         bB      bK             #
+  #                                #
+7 #                 bR             #
+  #                                #
+6 # bP          bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 # wK                             #
+  #                                #
+1 #         wB              wR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rg1-f1
+  ##################################
+8 #         bB      bK             #
+  #                                #
+7 #                 bR             #
+  #                                #
+6 # bP          bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 # wK                             #
+  #                                #
+1 #         wB          wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Ke8-d7
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #             bK  bR             #
+  #                                #
+6 # bP          bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 # wK                             #
+  #                                #
+1 #         wB          wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ka2-a1
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #             bK  bR             #
+  #                                #
+6 # bP          bP                 #
+  #                                #
+5 #                 bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #                                #
+  #                                #
+1 # wK      wB          wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	 a6-a5
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #             bK  bR             #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #                                #
+  #                                #
+1 # wK      wB          wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rf1-h1
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #             bK  bR             #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #                                #
+  #                                #
+1 # wK      wB                  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Re7-f7
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #             bK      bR         #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #                                #
+  #                                #
+1 # wK      wB                  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rh1-f1
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #             bK      bR         #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #                                #
+  #                                #
+1 # wK      wB          wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kd7-e6
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #                     bR         #
+  #                                #
+6 #             bP  bK             #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #                                #
+  #                                #
+1 # wK      wB          wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bc1-b2
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #                     bR         #
+  #                                #
+6 #             bP  bK             #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #     wB                         #
+  #                                #
+1 # wK                  wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Rf7-d7
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #             bR                 #
+  #                                #
+6 #             bP  bK             #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 #     wB                         #
+  #                                #
+1 # wK                  wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ka1-a2
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #             bR                 #
+  #                                #
+6 #             bP  bK             #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 # wK  wB                         #
+  #                                #
+1 #                     wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Rd7-a7
+  ##################################
+8 #         bB                     #
+  #                                #
+7 # bR                             #
+  #                                #
+6 #             bP  bK             #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 # wK  wB                         #
+  #                                #
+1 #                     wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bb2-c1
+  ##################################
+8 #         bB                     #
+  #                                #
+7 # bR                             #
+  #                                #
+6 #             bP  bK             #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 # wK                             #
+  #                                #
+1 #         wB          wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Ke6-d7
+  ##################################
+8 #         bB                     #
+  #                                #
+7 # bR          bK                 #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 # wK                             #
+  #                                #
+1 #         wB          wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bc1-b2
+  ##################################
+8 #         bB                     #
+  #                                #
+7 # bR          bK                 #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 # wK  wB                         #
+  #                                #
+1 #                     wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Ra7-b7
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #     bR      bK                 #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 # wK  wB                         #
+  #                                #
+1 #                     wR         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rf1-f2
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #     bR      bK                 #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 # wK  wB              wR         #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Rb7-c7
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #         bR  bK                 #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 # wK  wB              wR         #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rf2-c2
+  ##################################
+8 #         bB                     #
+  #                                #
+7 #         bR  bK                 #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 # wK  wB  wR                     #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Rc7-a7
+  ##################################
+8 #         bB                     #
+  #                                #
+7 # bR          bK                 #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 # wK  wB  wR                     #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rc2-h2
+  ##################################
+8 #         bB                     #
+  #                                #
+7 # bR          bK                 #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 # wK  wB                      wR #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Bc8-b7
+  ##################################
+8 #                                #
+  #                                #
+7 # bR  bB      bK                 #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 # wK  wB                      wR #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rh2-e2
+  ##################################
+8 #                                #
+  #                                #
+7 # bR  bB      bK                 #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 # wK  wB          wR             #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kd7-d8
+  ##################################
+8 #             bK                 #
+  #                                #
+7 # bR  bB                         #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP      wP  wP     #
+  #                                #
+2 # wK  wB          wR             #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Re2-e3
+  ##################################
+8 #             bK                 #
+  #                                #
+7 # bR  bB                         #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP  wR  wP  wP     #
+  #                                #
+2 # wK  wB                         #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kd8-c8
+  ##################################
+8 #         bK                     #
+  #                                #
+7 # bR  bB                         #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP  wR  wP  wP     #
+  #                                #
+2 # wK  wB                         #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ka2-b1
+  ##################################
+8 #         bK                     #
+  #                                #
+7 # bR  bB                         #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #     bQ  wP      wP          wP #
+  #                                #
+3 # wR          wP  wR  wP  wP     #
+  #                                #
+2 #     wB                         #
+  #                                #
+1 #     wK                         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qb4-d2
+  ##################################
+8 #         bK                     #
+  #                                #
+7 # bR  bB                         #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wR          wP  wR  wP  wP     #
+  #                                #
+2 #     wB      bQ                 #
+  #                                #
+1 #     wK                         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	 d3-d4
+  ##################################
+8 #         bK                     #
+  #                                #
+7 # bR  bB                         #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP              bP          bP #
+  #                                #
+4 #         wP  wP  wP          wP #
+  #                                #
+3 # wR              wR  wP  wP     #
+  #                                #
+2 #     wB      bQ                 #
+  #                                #
+1 #     wK                         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	 e5xd4
+  ##################################
+8 #         bK                     #
+  #                                #
+7 # bR  bB                         #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP                          bP #
+  #                                #
+4 #         wP  bP  wP          wP #
+  #                                #
+3 # wR              wR  wP  wP     #
+  #                                #
+2 #     wB      bQ                 #
+  #                                #
+1 #     wK                         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ra3-d3
+  ##################################
+8 #         bK                     #
+  #                                #
+7 # bR  bB                         #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP                          bP #
+  #                                #
+4 #         wP  bP  wP          wP #
+  #                                #
+3 #             wR  wR  wP  wP     #
+  #                                #
+2 #     wB      bQ                 #
+  #                                #
+1 #     wK                         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qd2-f2
+  ##################################
+8 #         bK                     #
+  #                                #
+7 # bR  bB                         #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP                          bP #
+  #                                #
+4 #         wP  bP  wP          wP #
+  #                                #
+3 #             wR  wR  wP  wP     #
+  #                                #
+2 #     wB              bQ         #
+  #                                #
+1 #     wK                         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bb2xd4
+  ##################################
+8 #         bK                     #
+  #                                #
+7 # bR  bB                         #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP                          bP #
+  #                                #
+4 #         wP  wB  wP          wP #
+  #                                #
+3 #             wR  wR  wP  wP     #
+  #                                #
+2 #                     bQ         #
+  #                                #
+1 #     wK                         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qf2-g1
+  ##################################
+8 #         bK                     #
+  #                                #
+7 # bR  bB                         #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP                          bP #
+  #                                #
+4 #         wP  wB  wP          wP #
+  #                                #
+3 #             wR  wR  wP  wP     #
+  #                                #
+2 #                                #
+  #                                #
+1 #     wK                  bQ     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Kb1-a2
+  ##################################
+8 #         bK                     #
+  #                                #
+7 # bR  bB                         #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP                          bP #
+  #                                #
+4 #         wP  wB  wP          wP #
+  #                                #
+3 #             wR  wR  wP  wP     #
+  #                                #
+2 # wK                             #
+  #                                #
+1 #                         bQ     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qg1-f2
+  ##################################
+8 #         bK                     #
+  #                                #
+7 # bR  bB                         #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP                          bP #
+  #                                #
+4 #         wP  wB  wP          wP #
+  #                                #
+3 #             wR  wR  wP  wP     #
+  #                                #
+2 # wK                  bQ         #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ka2-a3
+  ##################################
+8 #         bK                     #
+  #                                #
+7 # bR  bB                         #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP                          bP #
+  #                                #
+4 #         wP  wB  wP          wP #
+  #                                #
+3 # wK          wR  wR  wP  wP     #
+  #                                #
+2 #                     bQ         #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Ra7-a8
+  ##################################
+8 # bR      bK                     #
+  #                                #
+7 #     bB                         #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP                          bP #
+  #                                #
+4 #         wP  wB  wP          wP #
+  #                                #
+3 # wK          wR  wR  wP  wP     #
+  #                                #
+2 #                     bQ         #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rd3-b3
+  ##################################
+8 # bR      bK                     #
+  #                                #
+7 #     bB                         #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bP                          bP #
+  #                                #
+4 #         wP  wB  wP          wP #
+  #                                #
+3 # wK  wR          wR  wP  wP     #
+  #                                #
+2 #                     bQ         #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Bb7-a6
+  ##################################
+8 # bR      bK                     #
+  #                                #
+7 #                                #
+  #                                #
+6 # bB          bP                 #
+  #                                #
+5 # bP                          bP #
+  #                                #
+4 #         wP  wB  wP          wP #
+  #                                #
+3 # wK  wR          wR  wP  wP     #
+  #                                #
+2 #                     bQ         #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bd4-b6
+  ##################################
+8 # bR      bK                     #
+  #                                #
+7 #                                #
+  #                                #
+6 # bB  wB      bP                 #
+  #                                #
+5 # bP                          bP #
+  #                                #
+4 #         wP      wP          wP #
+  #                                #
+3 # wK  wR          wR  wP  wP     #
+  #                                #
+2 #                     bQ         #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Ba6xc4
+  ##################################
+8 # bR      bK                     #
+  #                                #
+7 #                                #
+  #                                #
+6 #     wB      bP                 #
+  #                                #
+5 # bP                          bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 # wK  wR          wR  wP  wP     #
+  #                                #
+2 #                     bQ         #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Re3-c3
+  ##################################
+8 # bR      bK                     #
+  #                                #
+7 #                                #
+  #                                #
+6 #     wB      bP                 #
+  #                                #
+5 # bP                          bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 # wK  wR  wR          wP  wP     #
+  #                                #
+2 #                     bQ         #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qf2-f1
+  ##################################
+8 # bR      bK                     #
+  #                                #
+7 #                                #
+  #                                #
+6 #     wB      bP                 #
+  #                                #
+5 # bP                          bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 # wK  wR  wR          wP  wP     #
+  #                                #
+2 #                                #
+  #                                #
+1 #                     bQ         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ka3-b2
+  ##################################
+8 # bR      bK                     #
+  #                                #
+7 #                                #
+  #                                #
+6 #     wB      bP                 #
+  #                                #
+5 # bP                          bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 #     wR  wR          wP  wP     #
+  #                                #
+2 #     wK                         #
+  #                                #
+1 #                     bQ         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kc8-b7
+  ##################################
+8 # bR                             #
+  #                                #
+7 #     bK                         #
+  #                                #
+6 #     wB      bP                 #
+  #                                #
+5 # bP                          bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 #     wR  wR          wP  wP     #
+  #                                #
+2 #     wK                         #
+  #                                #
+1 #                     bQ         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rc3-c1
+  ##################################
+8 # bR                             #
+  #                                #
+7 #     bK                         #
+  #                                #
+6 #     wB      bP                 #
+  #                                #
+5 # bP                          bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 #     wR              wP  wP     #
+  #                                #
+2 #     wK                         #
+  #                                #
+1 #         wR          bQ         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qf1-g2
+  ##################################
+8 # bR                             #
+  #                                #
+7 #     bK                         #
+  #                                #
+6 #     wB      bP                 #
+  #                                #
+5 # bP                          bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 #     wR              wP  wP     #
+  #                                #
+2 #     wK                  bQ     #
+  #                                #
+1 #         wR                     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rc1-c2
+  ##################################
+8 # bR                             #
+  #                                #
+7 #     bK                         #
+  #                                #
+6 #     wB      bP                 #
+  #                                #
+5 # bP                          bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 #     wR              wP  wP     #
+  #                                #
+2 #     wK  wR              bQ     #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qg2-f1
+  ##################################
+8 # bR                             #
+  #                                #
+7 #     bK                         #
+  #                                #
+6 #     wB      bP                 #
+  #                                #
+5 # bP                          bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 #     wR              wP  wP     #
+  #                                #
+2 #     wK  wR                     #
+  #                                #
+1 #                     bQ         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rc2-f2
+  ##################################
+8 # bR                             #
+  #                                #
+7 #     bK                         #
+  #                                #
+6 #     wB      bP                 #
+  #                                #
+5 # bP                          bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 #     wR              wP  wP     #
+  #                                #
+2 #     wK              wR         #
+  #                                #
+1 #                     bQ         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qf1-e1
+  ##################################
+8 # bR                             #
+  #                                #
+7 #     bK                         #
+  #                                #
+6 #     wB      bP                 #
+  #                                #
+5 # bP                          bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 #     wR              wP  wP     #
+  #                                #
+2 #     wK              wR         #
+  #                                #
+1 #                 bQ             #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Bb6xa5
+  ##################################
+8 # bR                             #
+  #                                #
+7 #     bK                         #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # wB                          bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 #     wR              wP  wP     #
+  #                                #
+2 #     wK              wR         #
+  #                                #
+1 #                 bQ             #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kb7-c6
+  ##################################
+8 # bR                             #
+  #                                #
+7 #                                #
+  #                                #
+6 #         bK  bP                 #
+  #                                #
+5 # wB                          bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 #     wR              wP  wP     #
+  #                                #
+2 #     wK              wR         #
+  #                                #
+1 #                 bQ             #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rb3-b6
+  ##################################
+8 # bR                             #
+  #                                #
+7 #                                #
+  #                                #
+6 #     wR  bK  bP                 #
+  #                                #
+5 # wB                          bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 #                     wP  wP     #
+  #                                #
+2 #     wK              wR         #
+  #                                #
+1 #                 bQ             #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kc6-c7
+  ##################################
+8 # bR                             #
+  #                                #
+7 #         bK                     #
+  #                                #
+6 #     wR      bP                 #
+  #                                #
+5 # wB                          bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 #                     wP  wP     #
+  #                                #
+2 #     wK              wR         #
+  #                                #
+1 #                 bQ             #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rb6-a6
+  ##################################
+8 # bR                             #
+  #                                #
+7 #         bK                     #
+  #                                #
+6 # wR          bP                 #
+  #                                #
+5 # wB                          bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 #                     wP  wP     #
+  #                                #
+2 #     wK              wR         #
+  #                                #
+1 #                 bQ             #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qe1xa5
+  ##################################
+8 # bR                             #
+  #                                #
+7 #         bK                     #
+  #                                #
+6 # wR          bP                 #
+  #                                #
+5 # bQ                          bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 #                     wP  wP     #
+  #                                #
+2 #     wK              wR         #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ra6xa5
+  ##################################
+8 # bR                             #
+  #                                #
+7 #         bK                     #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # wR                          bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 #                     wP  wP     #
+  #                                #
+2 #     wK              wR         #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Ra8xa5
+  ##################################
+8 #                                #
+  #                                #
+7 #         bK                     #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bR                          bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 #                     wP  wP     #
+  #                                #
+2 #     wK              wR         #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Kb2-b1
+  ##################################
+8 #                                #
+  #                                #
+7 #         bK                     #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 # bR                          bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 #                     wP  wP     #
+  #                                #
+2 #                     wR         #
+  #                                #
+1 #     wK                         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Ra5-e5
+  ##################################
+8 #                                #
+  #                                #
+7 #         bK                     #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 #                 bR          bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 #                     wP  wP     #
+  #                                #
+2 #                     wR         #
+  #                                #
+1 #     wK                         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Kb1-c1
+  ##################################
+8 #                                #
+  #                                #
+7 #         bK                     #
+  #                                #
+6 #             bP                 #
+  #                                #
+5 #                 bR          bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 #                     wP  wP     #
+  #                                #
+2 #                     wR         #
+  #                                #
+1 #         wK                     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Re5-e6
+  ##################################
+8 #                                #
+  #                                #
+7 #         bK                     #
+  #                                #
+6 #             bP  bR             #
+  #                                #
+5 #                             bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 #                     wP  wP     #
+  #                                #
+2 #                     wR         #
+  #                                #
+1 #         wK                     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rf2-c2
+  ##################################
+8 #                                #
+  #                                #
+7 #         bK                     #
+  #                                #
+6 #             bP  bR             #
+  #                                #
+5 #                             bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 #                     wP  wP     #
+  #                                #
+2 #         wR                     #
+  #                                #
+1 #         wK                     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	 d6-d5
+  ##################################
+8 #                                #
+  #                                #
+7 #         bK                     #
+  #                                #
+6 #                 bR             #
+  #                                #
+5 #             bP              bP #
+  #                                #
+4 #         bB      wP          wP #
+  #                                #
+3 #                     wP  wP     #
+  #                                #
+2 #         wR                     #
+  #                                #
+1 #         wK                     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	 g3-g4
+  ##################################
+8 #                                #
+  #                                #
+7 #         bK                     #
+  #                                #
+6 #                 bR             #
+  #                                #
+5 #             bP              bP #
+  #                                #
+4 #         bB      wP      wP  wP #
+  #                                #
+3 #                     wP         #
+  #                                #
+2 #         wR                     #
+  #                                #
+1 #         wK                     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	 h5xg4
+  ##################################
+8 #                                #
+  #                                #
+7 #         bK                     #
+  #                                #
+6 #                 bR             #
+  #                                #
+5 #             bP                 #
+  #                                #
+4 #         bB      wP      bP  wP #
+  #                                #
+3 #                     wP         #
+  #                                #
+2 #         wR                     #
+  #                                #
+1 #         wK                     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	 f3xg4
+  ##################################
+8 #                                #
+  #                                #
+7 #         bK                     #
+  #                                #
+6 #                 bR             #
+  #                                #
+5 #             bP                 #
+  #                                #
+4 #         bB      wP      wP  wP #
+  #                                #
+3 #                                #
+  #                                #
+2 #         wR                     #
+  #                                #
+1 #         wK                     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Re6xe4
+  ##################################
+8 #                                #
+  #                                #
+7 #         bK                     #
+  #                                #
+6 #                                #
+  #                                #
+5 #             bP                 #
+  #                                #
+4 #         bB      bR      wP  wP #
+  #                                #
+3 #                                #
+  #                                #
+2 #         wR                     #
+  #                                #
+1 #         wK                     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Kc1-b2
+  ##################################
+8 #                                #
+  #                                #
+7 #         bK                     #
+  #                                #
+6 #                                #
+  #                                #
+5 #             bP                 #
+  #                                #
+4 #         bB      bR      wP  wP #
+  #                                #
+3 #                                #
+  #                                #
+2 #     wK  wR                     #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kc7-d7
+  ##################################
+8 #                                #
+  #                                #
+7 #             bK                 #
+  #                                #
+6 #                                #
+  #                                #
+5 #             bP                 #
+  #                                #
+4 #         bB      bR      wP  wP #
+  #                                #
+3 #                                #
+  #                                #
+2 #     wK  wR                     #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	 g4-g5
+  ##################################
+8 #                                #
+  #                                #
+7 #             bK                 #
+  #                                #
+6 #                                #
+  #                                #
+5 #             bP          wP     #
+  #                                #
+4 #         bB      bR          wP #
+  #                                #
+3 #                                #
+  #                                #
+2 #     wK  wR                     #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Re4-g4
+  ##################################
+8 #                                #
+  #                                #
+7 #             bK                 #
+  #                                #
+6 #                                #
+  #                                #
+5 #             bP          wP     #
+  #                                #
+4 #         bB              bR  wP #
+  #                                #
+3 #                                #
+  #                                #
+2 #     wK  wR                     #
+  #                                #
+1 #                                #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Kb2-a1
+  ##################################
+8 #                                #
+  #                                #
+7 #             bK                 #
+  #                                #
+6 #                                #
+  #                                #
+5 #             bP          wP     #
+  #                                #
+4 #         bB              bR  wP #
+  #                                #
+3 #                                #
+  #                                #
+2 #         wR                     #
+  #                                #
+1 # wK                             #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Rg4-g1
+  ##################################
+8 #                                #
+  #                                #
+7 #             bK                 #
+  #                                #
+6 #                                #
+  #                                #
+5 #             bP          wP     #
+  #                                #
+4 #         bB                  wP #
+  #                                #
+3 #                                #
+  #                                #
+2 #         wR                     #
+  #                                #
+1 # wK                      bR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ka1-b2
+  ##################################
+8 #                                #
+  #                                #
+7 #             bK                 #
+  #                                #
+6 #                                #
+  #                                #
+5 #             bP          wP     #
+  #                                #
+4 #         bB                  wP #
+  #                                #
+3 #                                #
+  #                                #
+2 #     wK  wR                     #
+  #                                #
+1 #                         bR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Bc4-d3
+  ##################################
+8 #                                #
+  #                                #
+7 #             bK                 #
+  #                                #
+6 #                                #
+  #                                #
+5 #             bP          wP     #
+  #                                #
+4 #                             wP #
+  #                                #
+3 #             bB                 #
+  #                                #
+2 #     wK  wR                     #
+  #                                #
+1 #                         bR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rc2-h2
+  ##################################
+8 #                                #
+  #                                #
+7 #             bK                 #
+  #                                #
+6 #                                #
+  #                                #
+5 #             bP          wP     #
+  #                                #
+4 #                             wP #
+  #                                #
+3 #             bB                 #
+  #                                #
+2 #     wK                      wR #
+  #                                #
+1 #                         bR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Bd3-b1
+  ##################################
+8 #                                #
+  #                                #
+7 #             bK                 #
+  #                                #
+6 #                                #
+  #                                #
+5 #             bP          wP     #
+  #                                #
+4 #                             wP #
+  #                                #
+3 #                                #
+  #                                #
+2 #     wK                      wR #
+  #                                #
+1 #     bB                  bR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rh2-d2
+  ##################################
+8 #                                #
+  #                                #
+7 #             bK                 #
+  #                                #
+6 #                                #
+  #                                #
+5 #             bP          wP     #
+  #                                #
+4 #                             wP #
+  #                                #
+3 #                                #
+  #                                #
+2 #     wK      wR                 #
+  #                                #
+1 #     bB                  bR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kd7-d6
+  ##################################
+8 #                                #
+  #                                #
+7 #                                #
+  #                                #
+6 #             bK                 #
+  #                                #
+5 #             bP          wP     #
+  #                                #
+4 #                             wP #
+  #                                #
+3 #                                #
+  #                                #
+2 #     wK      wR                 #
+  #                                #
+1 #     bB                  bR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	 h4-h5
+  ##################################
+8 #                                #
+  #                                #
+7 #                                #
+  #                                #
+6 #             bK                 #
+  #                                #
+5 #             bP          wP  wP #
+  #                                #
+4 #                                #
+  #                                #
+3 #                                #
+  #                                #
+2 #     wK      wR                 #
+  #                                #
+1 #     bB                  bR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Rg1-h1
+  ##################################
+8 #                                #
+  #                                #
+7 #                                #
+  #                                #
+6 #             bK                 #
+  #                                #
+5 #             bP          wP  wP #
+  #                                #
+4 #                                #
+  #                                #
+3 #                                #
+  #                                #
+2 #     wK      wR                 #
+  #                                #
+1 #     bB                      bR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	 g5-g6
+  ##################################
+8 #                                #
+  #                                #
+7 #                                #
+  #                                #
+6 #             bK          wP     #
+  #                                #
+5 #             bP              wP #
+  #                                #
+4 #                                #
+  #                                #
+3 #                                #
+  #                                #
+2 #     wK      wR                 #
+  #                                #
+1 #     bB                      bR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kd6-c6
+  ##################################
+8 #                                #
+  #                                #
+7 #                                #
+  #                                #
+6 #         bK              wP     #
+  #                                #
+5 #             bP              wP #
+  #                                #
+4 #                                #
+  #                                #
+3 #                                #
+  #                                #
+2 #     wK      wR                 #
+  #                                #
+1 #     bB                      bR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	 g6-g7
+  ##################################
+8 #                                #
+  #                                #
+7 #                         wP     #
+  #                                #
+6 #         bK                     #
+  #                                #
+5 #             bP              wP #
+  #                                #
+4 #                                #
+  #                                #
+3 #                                #
+  #                                #
+2 #     wK      wR                 #
+  #                                #
+1 #     bB                      bR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Rh1-g1
+  ##################################
+8 #                                #
+  #                                #
+7 #                         wP     #
+  #                                #
+6 #         bK                     #
+  #                                #
+5 #             bP              wP #
+  #                                #
+4 #                                #
+  #                                #
+3 #                                #
+  #                                #
+2 #     wK      wR                 #
+  #                                #
+1 #     bB                  bR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	 h5-h6
+  ##################################
+8 #                                #
+  #                                #
+7 #                         wP     #
+  #                                #
+6 #         bK                  wP #
+  #                                #
+5 #             bP                 #
+  #                                #
+4 #                                #
+  #                                #
+3 #                                #
+  #                                #
+2 #     wK      wR                 #
+  #                                #
+1 #     bB                  bR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kc6-d6
+  ##################################
+8 #                                #
+  #                                #
+7 #                         wP     #
+  #                                #
+6 #             bK              wP #
+  #                                #
+5 #             bP                 #
+  #                                #
+4 #                                #
+  #                                #
+3 #                                #
+  #                                #
+2 #     wK      wR                 #
+  #                                #
+1 #     bB                  bR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	 h6-h7
+  ##################################
+8 #                                #
+  #                                #
+7 #                         wP  wP #
+  #                                #
+6 #             bK                 #
+  #                                #
+5 #             bP                 #
+  #                                #
+4 #                                #
+  #                                #
+3 #                                #
+  #                                #
+2 #     wK      wR                 #
+  #                                #
+1 #     bB                  bR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Bb1xh7
+  ##################################
+8 #                                #
+  #                                #
+7 #                         wP  bB #
+  #                                #
+6 #             bK                 #
+  #                                #
+5 #             bP                 #
+  #                                #
+4 #                                #
+  #                                #
+3 #                                #
+  #                                #
+2 #     wK      wR                 #
+  #                                #
+1 #                         bR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Rd2xd5
+  ##################################
+8 #                                #
+  #                                #
+7 #                         wP  bB #
+  #                                #
+6 #             bK                 #
+  #                                #
+5 #             wR                 #
+  #                                #
+4 #                                #
+  #                                #
+3 #                                #
+  #                                #
+2 #     wK                         #
+  #                                #
+1 #                         bR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kd6xd5
+  ##################################
+8 #                                #
+  #                                #
+7 #                         wP  bB #
+  #                                #
+6 #                                #
+  #                                #
+5 #             bK                 #
+  #                                #
+4 #                                #
+  #                                #
+3 #                                #
+  #                                #
+2 #     wK                         #
+  #                                #
+1 #                         bR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Kb2-a2
+  ##################################
+8 #                                #
+  #                                #
+7 #                         wP  bB #
+  #                                #
+6 #                                #
+  #                                #
+5 #             bK                 #
+  #                                #
+4 #                                #
+  #                                #
+3 #                                #
+  #                                #
+2 # wK                             #
+  #                                #
+1 #                         bR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Bh7-b1
+  ##################################
+8 #                                #
+  #                                #
+7 #                         wP     #
+  #                                #
+6 #                                #
+  #                                #
+5 #             bK                 #
+  #                                #
+4 #                                #
+  #                                #
+3 #                                #
+  #                                #
+2 # wK                             #
+  #                                #
+1 #     bB                  bR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Ka2-b2
+  ##################################
+8 #                                #
+  #                                #
+7 #                         wP     #
+  #                                #
+6 #                                #
+  #                                #
+5 #             bK                 #
+  #                                #
+4 #                                #
+  #                                #
+3 #                                #
+  #                                #
+2 #     wK                         #
+  #                                #
+1 #     bB                  bR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kd5-c4
+  ##################################
+8 #                                #
+  #                                #
+7 #                         wP     #
+  #                                #
+6 #                                #
+  #                                #
+5 #                                #
+  #                                #
+4 #         bK                     #
+  #                                #
+3 #                                #
+  #                                #
+2 #     wK                         #
+  #                                #
+1 #     bB                  bR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	 g7-g8B
+  ##################################
+8 #                         wB     #
+  #                                #
+7 #                                #
+  #                                #
+6 #                                #
+  #                                #
+5 #                                #
+  #                                #
+4 #         bK                     #
+  #                                #
+3 #                                #
+  #                                #
+2 #     wK                         #
+  #                                #
+1 #     bB                  bR     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Rg1xg8
+  ##################################
+8 #                         bR     #
+  #                                #
+7 #                                #
+  #                                #
+6 #                                #
+  #                                #
+5 #                                #
+  #                                #
+4 #         bK                     #
+  #                                #
+3 #                                #
+  #                                #
+2 #     wK                         #
+  #                                #
+1 #     bB                         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Kb2xb1
+  ##################################
+8 #                         bR     #
+  #                                #
+7 #                                #
+  #                                #
+6 #                                #
+  #                                #
+5 #                                #
+  #                                #
+4 #         bK                     #
+  #                                #
+3 #                                #
+  #                                #
+2 #                                #
+  #                                #
+1 #     wK                         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Kc4-b3
+  ##################################
+8 #                         bR     #
+  #                                #
+7 #                                #
+  #                                #
+6 #                                #
+  #                                #
+5 #                                #
+  #                                #
+4 #                                #
+  #                                #
+3 #     bK                         #
+  #                                #
+2 #                                #
+  #                                #
+1 #     wK                         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Kb1-c1
+  ##################################
+8 #                         bR     #
+  #                                #
+7 #                                #
+  #                                #
+6 #                                #
+  #                                #
+5 #                                #
+  #                                #
+4 #                                #
+  #                                #
+3 #     bK                         #
+  #                                #
+2 #                                #
+  #                                #
+1 #         wK                     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Rg8-d8
+  ##################################
+8 #             bR                 #
+  #                                #
+7 #                                #
+  #                                #
+6 #                                #
+  #                                #
+5 #                                #
+  #                                #
+4 #                                #
+  #                                #
+3 #     bK                         #
+  #                                #
+2 #                                #
+  #                                #
+1 #         wK                     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Chosen move:	Kc1-b1
+  ##################################
+8 #             bR                 #
+  #                                #
+7 #                                #
+  #                                #
+6 #                                #
+  #                                #
+5 #                                #
+  #                                #
+4 #                                #
+  #                                #
+3 #     bK                         #
+  #                                #
+2 #                                #
+  #                                #
+1 #     wK                         #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Rd8-d1
+  ##################################
+8 #                                #
+  #                                #
+7 #                                #
+  #                                #
+6 #                                #
+  #                                #
+5 #                                #
+  #                                #
+4 #                                #
+  #                                #
+3 #     bK                         #
+  #                                #
+2 #                                #
+  #                                #
+1 #     wK      bR                 #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Result: BLACK wins
+  ##################################
+8 #                                #
+  #                                #
+7 #                                #
+  #                                #
+6 #                                #
+  #                                #
+5 #                                #
+  #                                #
+4 #                                #
+  #                                #
+3 #     bK                         #
+  #                                #
+2 #                                #
+  #                                #
+1 #     wK      bR                 #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+BUILD SUCCESSFUL (total time: 5 minutes 12 seconds)
+

@@ -1,0 +1,973 @@
+run:
+  ##################################
+8 # bR  bN  bB  bQ  bK  bB  bN  bR #
+  #                                #
+7 # bP  bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #                                #
+  #                                #
+5 #                                #
+  #                                #
+4 #                                #
+  #                                #
+3 #                                #
+  #                                #
+2 # wP  wP  wP  wP  wP  wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ  wK  wB  wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+  ##################################
+8 # bR  bN  bB  bQ  bK  bB  bN  bR #
+  #                                #
+7 # bP  bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #                                #
+  #                                #
+5 #                                #
+  #                                #
+4 #                                #
+  #                                #
+3 #                                #
+  #                                #
+2 # wP  wP  wP  wP  wP  wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ  wK  wB  wN  wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+#0	Nb1-a3
+#1	Nb1-c3
+#2	Ng1-f3
+#3	Ng1-h3
+#4	 a2-a3
+#5	 a2-a4
+#6	 b2-b3
+#7	 b2-b4
+#8	 c2-c3
+#9	 c2-c4
+#10	 d2-d3
+#11	 d2-d4
+#12	 e2-e3
+#13	 e2-e4
+#14	 f2-f3
+#15	 f2-f4
+#16	 g2-g3
+#17	 g2-g4
+#18	 h2-h3
+#19	 h2-h4
+Enter any number between 0 and 19 to choose that move
+2
+Chosen move:	Ng1-f3
+  ##################################
+8 # bR  bN  bB  bQ  bK  bB  bN  bR #
+  #                                #
+7 # bP  bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #                                #
+  #                                #
+5 #                                #
+  #                                #
+4 #                                #
+  #                                #
+3 #                     wN         #
+  #                                #
+2 # wP  wP  wP  wP  wP  wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ  wK  wB      wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Ng8-f6
+  ##################################
+8 # bR  bN  bB  bQ  bK  bB      bR #
+  #                                #
+7 # bP  bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #                     bN         #
+  #                                #
+5 #                                #
+  #                                #
+4 #                                #
+  #                                #
+3 #                     wN         #
+  #                                #
+2 # wP  wP  wP  wP  wP  wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ  wK  wB      wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+  ##################################
+8 # bR  bN  bB  bQ  bK  bB      bR #
+  #                                #
+7 # bP  bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #                     bN         #
+  #                                #
+5 #                                #
+  #                                #
+4 #                                #
+  #                                #
+3 #                     wN         #
+  #                                #
+2 # wP  wP  wP  wP  wP  wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ  wK  wB      wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+#0	Rh1-g1
+#1	Nb1-a3
+#2	Nb1-c3
+#3	Nf3-d4
+#4	Nf3-e5
+#5	Nf3-g1
+#6	Nf3-g5
+#7	Nf3-h4
+#8	 a2-a3
+#9	 a2-a4
+#10	 b2-b3
+#11	 b2-b4
+#12	 c2-c3
+#13	 c2-c4
+#14	 d2-d3
+#15	 d2-d4
+#16	 e2-e3
+#17	 e2-e4
+#18	 g2-g3
+#19	 g2-g4
+#20	 h2-h3
+#21	 h2-h4
+Enter any number between 0 and 21 to choose that move
+16
+Chosen move:	 e2-e3
+  ##################################
+8 # bR  bN  bB  bQ  bK  bB      bR #
+  #                                #
+7 # bP  bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #                     bN         #
+  #                                #
+5 #                                #
+  #                                #
+4 #                                #
+  #                                #
+3 #                 wP  wN         #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ  wK  wB      wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Nf6-g4
+  ##################################
+8 # bR  bN  bB  bQ  bK  bB      bR #
+  #                                #
+7 # bP  bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #                                #
+  #                                #
+5 #                                #
+  #                                #
+4 #                         bN     #
+  #                                #
+3 #                 wP  wN         #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ  wK  wB      wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+  ##################################
+8 # bR  bN  bB  bQ  bK  bB      bR #
+  #                                #
+7 # bP  bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #                                #
+  #                                #
+5 #                                #
+  #                                #
+4 #                         bN     #
+  #                                #
+3 #                 wP  wN         #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ  wK  wB      wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+#0	Ke1-e2
+#1	Qd1-e2
+#2	Rh1-g1
+#3	Nb1-a3
+#4	Nb1-c3
+#5	Bf1-e2
+#6	Bf1-d3
+#7	Bf1-c4
+#8	Bf1-b5
+#9	Bf1-a6
+#10	Nf3-d4
+#11	Nf3-e5
+#12	Nf3-g1
+#13	Nf3-g5
+#14	Nf3-h4
+#15	 a2-a3
+#16	 a2-a4
+#17	 b2-b3
+#18	 b2-b4
+#19	 c2-c3
+#20	 c2-c4
+#21	 d2-d3
+#22	 d2-d4
+#23	 e3-e4
+#24	 g2-g3
+#25	 h2-h3
+#26	 h2-h4
+Enter any number between 0 and 26 to choose that move
+6
+Chosen move:	Bf1-d3
+  ##################################
+8 # bR  bN  bB  bQ  bK  bB      bR #
+  #                                #
+7 # bP  bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #                                #
+  #                                #
+5 #                                #
+  #                                #
+4 #                         bN     #
+  #                                #
+3 #             wB  wP  wN         #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ  wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	 a7-a5
+  ##################################
+8 # bR  bN  bB  bQ  bK  bB      bR #
+  #                                #
+7 #     bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #                                #
+  #                                #
+5 # bP                             #
+  #                                #
+4 #                         bN     #
+  #                                #
+3 #             wB  wP  wN         #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ  wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+  ##################################
+8 # bR  bN  bB  bQ  bK  bB      bR #
+  #                                #
+7 #     bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #                                #
+  #                                #
+5 # bP                             #
+  #                                #
+4 #                         bN     #
+  #                                #
+3 #             wB  wP  wN         #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ  wK          wR #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+#0	Bd3xh7
+#1	Ke1-e2
+#2	Ke1-f1
+#3	Ke1-g1
+#4	Qd1-e2
+#5	Rh1-g1
+#6	Rh1-f1
+#7	Nb1-a3
+#8	Nb1-c3
+#9	Bd3-c4
+#10	Bd3-b5
+#11	Bd3-a6
+#12	Bd3-e2
+#13	Bd3-f1
+#14	Bd3-e4
+#15	Bd3-f5
+#16	Bd3-g6
+#17	Nf3-d4
+#18	Nf3-e5
+#19	Nf3-g1
+#20	Nf3-g5
+#21	Nf3-h4
+#22	 a2-a3
+#23	 a2-a4
+#24	 b2-b3
+#25	 b2-b4
+#26	 c2-c3
+#27	 c2-c4
+#28	 e3-e4
+#29	 g2-g3
+#30	 h2-h3
+#31	 h2-h4
+Enter any number between 0 and 31 to choose that move
+3
+Chosen move:	Ke1-g1
+  ##################################
+8 # bR  bN  bB  bQ  bK  bB      bR #
+  #                                #
+7 #     bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #                                #
+  #                                #
+5 # bP                             #
+  #                                #
+4 #                         bN     #
+  #                                #
+3 #             wB  wP  wN         #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ      wR  wK     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Nb8-c6
+  ##################################
+8 # bR      bB  bQ  bK  bB      bR #
+  #                                #
+7 #     bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #         bN                     #
+  #                                #
+5 # bP                             #
+  #                                #
+4 #                         bN     #
+  #                                #
+3 #             wB  wP  wN         #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ      wR  wK     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+  ##################################
+8 # bR      bB  bQ  bK  bB      bR #
+  #                                #
+7 #     bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #         bN                     #
+  #                                #
+5 # bP                             #
+  #                                #
+4 #                         bN     #
+  #                                #
+3 #             wB  wP  wN         #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ      wR  wK     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+#0	Bd3xh7
+#1	Kg1-h1
+#2	Qd1-e1
+#3	Qd1-e2
+#4	Rf1-e1
+#5	Nb1-a3
+#6	Nb1-c3
+#7	Bd3-c4
+#8	Bd3-b5
+#9	Bd3-a6
+#10	Bd3-e2
+#11	Bd3-e4
+#12	Bd3-f5
+#13	Bd3-g6
+#14	Nf3-d4
+#15	Nf3-e1
+#16	Nf3-e5
+#17	Nf3-g5
+#18	Nf3-h4
+#19	 a2-a3
+#20	 a2-a4
+#21	 b2-b3
+#22	 b2-b4
+#23	 c2-c3
+#24	 c2-c4
+#25	 e3-e4
+#26	 g2-g3
+#27	 h2-h3
+#28	 h2-h4
+Enter any number between 0 and 28 to choose that move
+17
+Chosen move:	Nf3-g5
+  ##################################
+8 # bR      bB  bQ  bK  bB      bR #
+  #                                #
+7 #     bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #         bN                     #
+  #                                #
+5 # bP                      wN     #
+  #                                #
+4 #                         bN     #
+  #                                #
+3 #             wB  wP             #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ      wR  wK     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Nc6-e5
+  ##################################
+8 # bR      bB  bQ  bK  bB      bR #
+  #                                #
+7 #     bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #                                #
+  #                                #
+5 # bP              bN      wN     #
+  #                                #
+4 #                         bN     #
+  #                                #
+3 #             wB  wP             #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ      wR  wK     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+  ##################################
+8 # bR      bB  bQ  bK  bB      bR #
+  #                                #
+7 #     bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #                                #
+  #                                #
+5 # bP              bN      wN     #
+  #                                #
+4 #                         bN     #
+  #                                #
+3 #             wB  wP             #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ      wR  wK     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+#0	Qd1xg4
+#1	Bd3xh7
+#2	Ng5xf7
+#3	Ng5xh7
+#4	Kg1-h1
+#5	Qd1-e1
+#6	Qd1-e2
+#7	Qd1-f3
+#8	Rf1-e1
+#9	Nb1-a3
+#10	Nb1-c3
+#11	Bd3-c4
+#12	Bd3-b5
+#13	Bd3-a6
+#14	Bd3-e2
+#15	Bd3-e4
+#16	Bd3-f5
+#17	Bd3-g6
+#18	Ng5-e4
+#19	Ng5-e6
+#20	Ng5-f3
+#21	Ng5-h3
+#22	 a2-a3
+#23	 a2-a4
+#24	 b2-b3
+#25	 b2-b4
+#26	 c2-c3
+#27	 c2-c4
+#28	 e3-e4
+#29	 f2-f3
+#30	 f2-f4
+#31	 g2-g3
+#32	 h2-h3
+#33	 h2-h4
+Enter any number between 0 and 33 to choose that move
+16
+Chosen move:	Bd3-f5
+  ##################################
+8 # bR      bB  bQ  bK  bB      bR #
+  #                                #
+7 #     bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #                                #
+  #                                #
+5 # bP              bN  wB  wN     #
+  #                                #
+4 #                         bN     #
+  #                                #
+3 #                 wP             #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ      wR  wK     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Ng4-h6
+  ##################################
+8 # bR      bB  bQ  bK  bB      bR #
+  #                                #
+7 #     bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #                             bN #
+  #                                #
+5 # bP              bN  wB  wN     #
+  #                                #
+4 #                                #
+  #                                #
+3 #                 wP             #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ      wR  wK     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+  ##################################
+8 # bR      bB  bQ  bK  bB      bR #
+  #                                #
+7 #     bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #                             bN #
+  #                                #
+5 # bP              bN  wB  wN     #
+  #                                #
+4 #                                #
+  #                                #
+3 #                 wP             #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ      wR  wK     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+#0	Bf5xd7
+#1	Bf5xh7
+#2	Ng5xf7
+#3	Ng5xh7
+#4	Kg1-h1
+#5	Qd1-e1
+#6	Qd1-e2
+#7	Qd1-f3
+#8	Qd1-g4
+#9	Qd1-h5
+#10	Rf1-e1
+#11	Nb1-a3
+#12	Nb1-c3
+#13	Bf5-e4
+#14	Bf5-d3
+#15	Bf5-e6
+#16	Bf5-g4
+#17	Bf5-h3
+#18	Bf5-g6
+#19	Ng5-e4
+#20	Ng5-e6
+#21	Ng5-f3
+#22	Ng5-h3
+#23	 a2-a3
+#24	 a2-a4
+#25	 b2-b3
+#26	 b2-b4
+#27	 c2-c3
+#28	 c2-c4
+#29	 d2-d3
+#30	 d2-d4
+#31	 e3-e4
+#32	 f2-f3
+#33	 f2-f4
+#34	 g2-g3
+#35	 g2-g4
+#36	 h2-h3
+#37	 h2-h4
+Enter any number between 0 and 37 to choose that move
+31
+Chosen move:	 e3-e4
+  ##################################
+8 # bR      bB  bQ  bK  bB      bR #
+  #                                #
+7 #     bP  bP  bP  bP  bP  bP  bP #
+  #                                #
+6 #                             bN #
+  #                                #
+5 # bP              bN  wB  wN     #
+  #                                #
+4 #                 wP             #
+  #                                #
+3 #                                #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ      wR  wK     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	 e7-e6
+  ##################################
+8 # bR      bB  bQ  bK  bB      bR #
+  #                                #
+7 #     bP  bP  bP      bP  bP  bP #
+  #                                #
+6 #                 bP          bN #
+  #                                #
+5 # bP              bN  wB  wN     #
+  #                                #
+4 #                 wP             #
+  #                                #
+3 #                                #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ      wR  wK     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+  ##################################
+8 # bR      bB  bQ  bK  bB      bR #
+  #                                #
+7 #     bP  bP  bP      bP  bP  bP #
+  #                                #
+6 #                 bP          bN #
+  #                                #
+5 # bP              bN  wB  wN     #
+  #                                #
+4 #                 wP             #
+  #                                #
+3 #                                #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ      wR  wK     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+#0	Bf5xe6
+#1	Bf5xh7
+#2	Ng5xe6
+#3	Ng5xf7
+#4	Ng5xh7
+#5	Kg1-h1
+#6	Qd1-e1
+#7	Qd1-e2
+#8	Qd1-f3
+#9	Qd1-g4
+#10	Qd1-h5
+#11	Rf1-e1
+#12	Nb1-a3
+#13	Nb1-c3
+#14	Bf5-g4
+#15	Bf5-h3
+#16	Bf5-g6
+#17	Ng5-f3
+#18	Ng5-h3
+#19	 a2-a3
+#20	 a2-a4
+#21	 b2-b3
+#22	 b2-b4
+#23	 c2-c3
+#24	 c2-c4
+#25	 d2-d3
+#26	 d2-d4
+#27	 f2-f3
+#28	 f2-f4
+#29	 g2-g3
+#30	 g2-g4
+#31	 h2-h3
+#32	 h2-h4
+Enter any number between 0 and 32 to choose that move
+4
+Chosen move:	Ng5xh7
+  ##################################
+8 # bR      bB  bQ  bK  bB      bR #
+  #                                #
+7 #     bP  bP  bP      bP  bP  wN #
+  #                                #
+6 #                 bP          bN #
+  #                                #
+5 # bP              bN  wB         #
+  #                                #
+4 #                 wP             #
+  #                                #
+3 #                                #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ      wR  wK     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Nh6xf5
+  ##################################
+8 # bR      bB  bQ  bK  bB      bR #
+  #                                #
+7 #     bP  bP  bP      bP  bP  wN #
+  #                                #
+6 #                 bP             #
+  #                                #
+5 # bP              bN  bN         #
+  #                                #
+4 #                 wP             #
+  #                                #
+3 #                                #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ      wR  wK     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+  ##################################
+8 # bR      bB  bQ  bK  bB      bR #
+  #                                #
+7 #     bP  bP  bP      bP  bP  wN #
+  #                                #
+6 #                 bP             #
+  #                                #
+5 # bP              bN  bN         #
+  #                                #
+4 #                 wP             #
+  #                                #
+3 #                                #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ      wR  wK     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+#0	Nh7xf8
+#1	 e4xf5
+#2	Kg1-h1
+#3	Qd1-e1
+#4	Qd1-e2
+#5	Qd1-f3
+#6	Qd1-g4
+#7	Qd1-h5
+#8	Rf1-e1
+#9	Nb1-a3
+#10	Nb1-c3
+#11	Nh7-f6
+#12	Nh7-g5
+#13	 a2-a3
+#14	 a2-a4
+#15	 b2-b3
+#16	 b2-b4
+#17	 c2-c3
+#18	 c2-c4
+#19	 d2-d3
+#20	 d2-d4
+#21	 f2-f3
+#22	 f2-f4
+#23	 g2-g3
+#24	 g2-g4
+#25	 h2-h3
+#26	 h2-h4
+Enter any number between 0 and 26 to choose that move
+0
+Chosen move:	Nh7xf8
+  ##################################
+8 # bR      bB  bQ  bK  wN      bR #
+  #                                #
+7 #     bP  bP  bP      bP  bP     #
+  #                                #
+6 #                 bP             #
+  #                                #
+5 # bP              bN  bN         #
+  #                                #
+4 #                 wP             #
+  #                                #
+3 #                                #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ      wR  wK     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qd8-h4
+  ##################################
+8 # bR      bB      bK  wN      bR #
+  #                                #
+7 #     bP  bP  bP      bP  bP     #
+  #                                #
+6 #                 bP             #
+  #                                #
+5 # bP              bN  bN         #
+  #                                #
+4 #                 wP          bQ #
+  #                                #
+3 #                                #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ      wR  wK     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+  ##################################
+8 # bR      bB      bK  wN      bR #
+  #                                #
+7 #     bP  bP  bP      bP  bP     #
+  #                                #
+6 #                 bP             #
+  #                                #
+5 # bP              bN  bN         #
+  #                                #
+4 #                 wP          bQ #
+  #                                #
+3 #                                #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ      wR  wK     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+#0	Nf8xd7
+#1	Nf8xe6
+#2	 e4xf5
+#3	Kg1-h1
+#4	Qd1-e1
+#5	Qd1-e2
+#6	Qd1-f3
+#7	Qd1-g4
+#8	Qd1-h5
+#9	Rf1-e1
+#10	Nb1-a3
+#11	Nb1-c3
+#12	Nf8-g6
+#13	Nf8-h7
+#14	 a2-a3
+#15	 a2-a4
+#16	 b2-b3
+#17	 b2-b4
+#18	 c2-c3
+#19	 c2-c4
+#20	 d2-d3
+#21	 d2-d4
+#22	 f2-f3
+#23	 f2-f4
+#24	 g2-g3
+#25	 g2-g4
+#26	 h2-h3
+Enter any number between 0 and 26 to choose that move
+2
+Chosen move:	 e4xf5
+  ##################################
+8 # bR      bB      bK  wN      bR #
+  #                                #
+7 #     bP  bP  bP      bP  bP     #
+  #                                #
+6 #                 bP             #
+  #                                #
+5 # bP              bN  wP         #
+  #                                #
+4 #                             bQ #
+  #                                #
+3 #                                #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  wP #
+  #                                #
+1 # wR  wN  wB  wQ      wR  wK     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	Black to move
+
+Chosen move:	Qh4xh2
+  ##################################
+8 # bR      bB      bK  wN      bR #
+  #                                #
+7 #     bP  bP  bP      bP  bP     #
+  #                                #
+6 #                 bP             #
+  #                                #
+5 # bP              bN  wP         #
+  #                                #
+4 #                                #
+  #                                #
+3 #                                #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  bQ #
+  #                                #
+1 # wR  wN  wB  wQ      wR  wK     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+Result: BLACK wins
+  ##################################
+8 # bR      bB      bK  wN      bR #
+  #                                #
+7 #     bP  bP  bP      bP  bP     #
+  #                                #
+6 #                 bP             #
+  #                                #
+5 # bP              bN  wP         #
+  #                                #
+4 #                                #
+  #                                #
+3 #                                #
+  #                                #
+2 # wP  wP  wP  wP      wP  wP  bQ #
+  #                                #
+1 # wR  wN  wB  wQ      wR  wK     #
+  ##################################
+     a   b   c   d   e   f   g   h
+	White to move
+
+BUILD SUCCESSFUL (total time: 10 minutes 9 seconds)
+
